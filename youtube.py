@@ -40,7 +40,7 @@ def check(videos,time,hour):
                 return endlink
     print hour + ' ' + time + " Video not yet uploaded"
     return False
-DEVELOPER_KEY = "AIzaSyCdL0bgv_3WungLZn1PQHsN13Kyu4mrp3g"
+DEVELOPER_KEY = "AIzaSyCdL0bgv_3WungLZn1PQHsN13Kyu4mrp3g" #remove this dev key Sandesh
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 def youtube_search(options,time,hour):
