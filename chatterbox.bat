@@ -1,4 +1,5 @@
 @echo off
+Rem Friends are the pillars of happiness. Sandesh Ghanta 
 start "" www.sandeshghanta.co.nf
 timeout /t 7
 :chatterbox
