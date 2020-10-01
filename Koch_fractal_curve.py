@@ -1,3 +1,6 @@
+'''
+Author: Sandesh Ghanta
+'''
 import turtle
 
 theta = 60
